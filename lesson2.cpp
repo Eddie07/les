@@ -15,5 +15,7 @@ int main()
     while (b>0);
     cout << "=" << c; 
     return 0;
+	
+	
 }
 	
